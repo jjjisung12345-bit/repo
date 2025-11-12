@@ -1,2 +1,2 @@
 # practice
-## study git
+## lets study git
