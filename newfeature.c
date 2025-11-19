@@ -9,4 +9,5 @@ void main(){
   printf("%s\n", pwd);
   fputs("%s/n",f);
   fclose(f);
+  printf("hello?");
 }
