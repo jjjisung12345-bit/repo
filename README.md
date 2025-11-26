@@ -1,5 +1,5 @@
-# 1.**Practice** Practice
-## 1. 1 lets study git
+# 1.**Practice** 
+## 1. 1 lets study **git**
 ```
 git_hub
 ```
